@@ -1,0 +1,7 @@
+﻿  etap1_so_p.cpp
+C:\vcpkg\vcpkg\installed\x86-windows\include\curses.h(190,1): warning C4005: "MOUSE_MOVED": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wincontypes.h(103): message : zobacz poprzednią definicję „MOUSE_MOVED”
+C:\Users\Mateusz\source\repos\etap1_so_p\etap1_so_p\etap1_so_p.cpp(182,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Mateusz\source\repos\etap1_so_p\etap1_so_p\etap1_so_p.cpp(187,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Mateusz\source\repos\etap1_so_p\etap1_so_p\etap1_so_p.cpp(197,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  etap1_so_p.vcxproj -> C:\Users\Mateusz\source\repos\etap1_so_p\Debug\etap1_so_p.exe
